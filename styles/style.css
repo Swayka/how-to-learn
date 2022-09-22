@@ -118,7 +118,7 @@
   margin: 100px 0;
   flex-direction: column;
 }
-.digits__section-title {
+.section-title {
   width: 60%;
   line-height: 1.15;
   font-size: 60px;
@@ -127,7 +127,7 @@
   margin: 0;
   margin-bottom: 20px;
 }
-.digits__section-subtitle {
+.section-subtitle {
   width: 60%;
   line-height: 34px;
   font-size: 24px;
@@ -210,24 +210,14 @@
   overflow: hidden;
   z-index: 0;
 }
-.kaufman__section-title_theme_dark {
-  line-height: 1.15;
-  font-size: 60px;
-  font-weight: 600;
-  text-align: center;
+.section-title_theme_dark {
   color: white;
-  width: 60%;
   z-index: 1;
   margin: 0 auto;
   margin-top: 90px;
 }
-.kaufman__section-subtitle_theme_dark {
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
-  text-align: center;
+.section-subtitle_theme_dark {
   color: white;
-  width: 60%;
   margin-bottom: 0;
   z-index: 1;
   margin: 0 auto;
