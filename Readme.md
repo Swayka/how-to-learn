@@ -6,4 +6,4 @@
 * Методология БЭМ
 * Тег iframe
 
-[Ссылка на страницу работы](https://swayka.github.io/russian-travel-NM/)
+[Ссылка на страницу работы](https://swayka.github.io/how-to-learn/)
